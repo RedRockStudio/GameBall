@@ -23,5 +23,10 @@
 			"Name": "AnalyticsBlueprintLibrary",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"IOS"
 	]
 }
