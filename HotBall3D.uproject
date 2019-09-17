@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -11,7 +11,7 @@
 		},
 		{
 			"Name": "Appodeal",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ccc66aee678544bc83c34213a26d0449"
 		},
 		{
@@ -59,7 +59,7 @@
 	],
 	"TargetPlatforms": [
 		"Android",
-		"AllDesktop",
-		"IOS"
+		"IOS",
+		"WindowsNoEditor"
 	]
 }
