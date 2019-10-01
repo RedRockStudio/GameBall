@@ -55,6 +55,10 @@
 		{
 			"Name": "GeometryCache",
 			"Enabled": false
+		},
+		{
+			"Name": "GoogleCloudMessaging",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
