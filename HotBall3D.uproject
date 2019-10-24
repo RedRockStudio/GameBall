@@ -59,6 +59,14 @@
 		{
 			"Name": "GoogleCloudMessaging",
 			"Enabled": false
+		},
+		{
+			"Name": "SdkboxIAP",
+			"Enabled": false
+		},
+		{
+			"Name": "Sdkbox",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
