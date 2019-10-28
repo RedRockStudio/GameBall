@@ -10,11 +10,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d070c3fab7b74c08bab3a89c9cbf4490"
 		},
 		{
-			"Name": "Appodeal",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ccc66aee678544bc83c34213a26d0449"
-		},
-		{
 			"Name": "AnalyticsBlueprintLibrary",
 			"Enabled": true
 		},
