@@ -71,11 +71,18 @@
 		{
 			"Name": "OctanePlugin",
 			"Enabled": false
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
 		"Android",
-		"IOS",
-		"WindowsNoEditor"
+		"IOS"
 	]
 }
